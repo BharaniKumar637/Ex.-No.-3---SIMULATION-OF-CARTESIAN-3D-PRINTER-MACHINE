@@ -60,8 +60,8 @@
 
 ## Output:
 
-### Name: PREM R
-### Register Number: 212223240124
+### Name: BHARANI KUMAR J
+### Register Number: 212224240024
 ![image](https://github.com/user-attachments/assets/1142fea2-c2ee-4771-b8f5-5889e4edc18a)
 
 
